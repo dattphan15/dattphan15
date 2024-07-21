@@ -1,6 +1,5 @@
 
 - 🔭 I’m currently working on a Auto marketplace web and mobile application (Frontend: React, Flutter / Backend: NodeJS).
-- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on new projects using modern applications with the latest innovative frameworks.
 - 🧠 I am interested in AI and Cyber Security.
 - ⚡ Fun fact: I enjoy flying drones, cooking, travelling and coding.
